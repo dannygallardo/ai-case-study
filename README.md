@@ -42,6 +42,16 @@ They are focusing on solving this problem through the labeling of data through a
 as algorithmic solutions.  The company currently focuses on annotating text, image, video, active and passive sonar,,
 and LiDAR. 
 
+```
+I think Data and Compute are the definitely the limiting factors today"
+```
+- Alexandr Wang on The Logan Bartlett Show
+
+```
+Human experts become GPU's in their own right, basically the number and quality of human experts who are 
+fueling model improvement is going to become in and of itself another supply chain bottleneck for the industry
+```
+- Alexandr Wang on The Logan Bartlett Show
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
