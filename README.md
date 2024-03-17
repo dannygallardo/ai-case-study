@@ -4,7 +4,8 @@
 
 **Name of company**
 
-Scale https://scale.com/
+Scale  
+https://scale.com/
 
 **When was the company incorporated?***
 
@@ -177,16 +178,16 @@ In the second case, local experts would be more knowledgeable of certain nuances
 being tagged and labeled, leading to hyper localized data labeling, making the models highly efficient.  
 
 ## Sources
-https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9
-https://www.youtube.com/watch?v=gDMemWgEJak
-https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1
-https://stackshare.io/scale-ai/scale
-https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study
-https://labelbox.com/
-https://dataloop.ai/
-https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201
-https://labelbox.com/compare/labelbox-vs-scale/
-https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html
-https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/
+https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
+https://www.youtube.com/watch?v=gDMemWgEJak  
+https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1  
+https://stackshare.io/scale-ai/scale  
+https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study  
+https://labelbox.com/  
+https://dataloop.ai/  
+https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
+https://labelbox.com/compare/labelbox-vs-scale/  
+https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
+https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
 
 
