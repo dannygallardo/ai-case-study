@@ -1,11 +1,9 @@
-# AI Case Study
+# AI Case Study of Scale
 
 ## Overview and Origin
-
-**Name of company**
-
+![Scale Logo](/scaleai_logo.jpeg)    
 Scale  
-https://scale.com/
+https://scale.com/   
 
 **When was the company incorporated?***
 
