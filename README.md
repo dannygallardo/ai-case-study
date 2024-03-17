@@ -11,8 +11,8 @@ Scale was founded in 2016 and is headquartered in San Francisco, California
 
 **Who are the founders of the company?**
 
-Scale was founded by Alexandr Wang and Lucy Guo.  Alexandr was only 19 and studying at MIT before founding the
-company.  Lucy Guo and Alexandr met while both were  working at Quora, a question and answer website.
+Scale was founded by Alexandr Wang and Lucy Guo[^1].  Alexandr was only 19 and studying at MIT before founding the
+company.  Lucy Guo and Alexandr met while both were  working at Quora, a question and answer website.[^2]
 
 **How did the idea for the company (or project) come about?**
 
@@ -48,13 +48,13 @@ in AI technology that need solving todayy.
 ```
 I think Data and Compute are the definitely the limiting factors today"
 ```
-_Alexandr Wang on The Logan Bartlett Show_
+_Alexandr Wang on The Logan Bartlett Show_ [^3]
 
 ```
 Human experts become GPU's in their own right, basically the number and quality of human experts who are 
 fueling model improvement is going to become in and of itself another supply chain bottleneck for the industry
 ```
-_Alexandr Wang on The Logan Bartlett Show_
+_Alexandr Wang on The Logan Bartlett Show_ [^3]
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
@@ -80,7 +80,7 @@ This lead time allows them to understand the market better than a competitor ent
 
 **Which technologies are they currently using, and how are they implementing them?**
 
-Scale’s tech stack includes the following technologies.
+Scale’s tech stack includes the following technologies [^4]
 - Javascript  
 - Python  
 - Node.js  
@@ -104,16 +104,16 @@ Scale is in the AI and machine learning field with a heavy focus on data labelin
 
 The AI and machine learning field is evolving rapidly.  In the last 5 years we have seen the emergence of large
 language models, natural language processing, neural networks, generative AI for images, video, and audio, as well as
-advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition.  
+advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^5] 
 
 The trend is towards allowing companies and individuals to be able to leverage the power of AI to accomplish more
 tasks more efficiently, with more context, and to advance technology and business sectors more rapidly.
 
 **What are the other major companies in this field?**
 
-Some of Scales competitors include Labelbox, based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
-Perkins.  Another competitor DataLoop is based out of Tel-Aviv and has raised over $11 million  when it comes to
-offering data labeling services for AI.
+Some of Scales competitors include Labelbox[^6], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
+Perkins.  Another competitor DataLoop[^7] is based out of Tel-Aviv and has raised over $11 million  when it comes to
+offering data labeling services for AI.[^8]
 
 
 ## Results
@@ -144,8 +144,8 @@ iRobot, makers of the Roomba, had labeled over 2 million images using Scale AI�
 **How is your company performing relative to competitors in the same field?**
 
 Currently, Scale is the leader in this field.  Other competitors like LabelBox are also working with large scale
-companies and providing additional services like allowing their models to be used by startups or for free.  Labelbox
-also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem.
+companies and providing additional services like allowing their models to be used by startups or for free .  Labelbox
+also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^9]
 
 ## Recommendations
 
@@ -161,7 +161,8 @@ industry.
 The second would be a labeling service that focuses on diversity within the training models powering AI for
 organizations and government.  With so many models being trained on data that is currently available, the need to have
 the systems accurately depict the true nature of diverse cultures and perspectives accurately is critical to the
-advancement of the technology.
+advancement of the technology.  Recently, some larger organizations such as Google had to pull back software releases 
+due to historical inaccuracies in their mdoels. [^10][^11]
 
 **Why do you think that offering this product or service would benefit the company?**
 
@@ -189,16 +190,14 @@ In the second case, local experts would be more knowledgeable of certain nuances
 being tagged and labeled, leading to hyper localized data labeling, making the models highly efficient.  
 
 ## Sources
-https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
-https://www.youtube.com/watch?v=gDMemWgEJak  
-https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1  
-https://stackshare.io/scale-ai/scale  
-https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study  
-https://labelbox.com/  
-https://dataloop.ai/  
-https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
-https://labelbox.com/compare/labelbox-vs-scale/  
-https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
-https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
-
-
+[^1]: https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
+[^2]: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1
+[^3]: https://www.youtube.com/watch?v=gDMemWgEJak  
+[^4]: https://stackshare.io/scale-ai/scale    
+[^5]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
+[^6]: https://labelbox.com/  
+[^7]: https://dataloop.ai/ 
+[^8]: https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
+[^9]: https://labelbox.com/compare/labelbox-vs-scale/  
+[^10]: https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
+[^11]: https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
