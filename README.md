@@ -81,18 +81,18 @@ This lead time allows them to understand the market better than a competitor ent
 **Which technologies are they currently using, and how are they implementing them?**
 
 Scale’s tech stack includes the following technologies.
-Javascript
-Python
-Node.js
-React
-Amazon Web Services
-Pytorch
-Tensorflow
-Typescript
-Node
-React
-Next.js
-MongoDB
+- Javascript  
+- Python  
+- Node.js  
+- React  
+- Amazon Web Services  
+- Pytorch  
+- Tensorflow  
+- Typescript  
+- Node  
+- React  
+- Next.js  
+- MongoDB  
 
 ## Landscape
 
