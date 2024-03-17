@@ -168,7 +168,7 @@ still function as it does today.
 For the diversity product, this would require potentially having the data or models labeled by local experts in the
 countries of origin for the images or data that is being tagged.
 
-**Why are these technologies appropriate for your solution?**
+**Why are these technologies appropriate for your solution?**  
 These technologies are appropriate for the solution I am proposing because in the first case, the underlying
 technology of Scale would not change drastically, only how it is presented to the user.  
 
