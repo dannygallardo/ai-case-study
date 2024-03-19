@@ -18,20 +18,34 @@ company.  Lucy Guo and Alexandr met while both were  working at Quora, a questio
 
 In the early days of deep learning, Alexandr noticed he used the same algorithm for face emotions and whether or not his food is
 missing in the fridge.  Nothing changed, the code and algorithms was the same, only the data was changing the
-performance of the algorithm.  
-
-He asked himself what the building blocks would be that would change the technology, and he decided data was the major
-component that would drive AI.
+performance of the algorithm.  This made him realize that the underlying data was what was impacting the model.  He asked himself 
+what the building blocks would be that would change the technology, and he decided data was the major component that would drive AI.
 
 The earliest use case Scale was trying to solve autonomous vehicles and enabling self driving.  Self-driving Cars
 needed  to identify and understand the environment around them.  The key differentiator was using labeled high quality
-data that powered algorithms.
+data that powered algorithms.  The team at Scale decided that human validation was just as important to training the algorithms as musch
+as improving the algorithms for label were themselves.  By making this hybrid model, Alexandr and team were able to provide higher quality
+labeling of data than traditional models up until that point. 
 
 **How is the company funded? How much funding have they received?**
 
 The company was founded after Alexandr after his time as a developer at Quora and studying at MIT.  He dropped out of
-MIT and received an initial investment from Y-Combinator.  To date, Scale has received $603 million in investment
-capital and is valued at $7.3 Billion at the time of this writing.
+MIT and received an initial investment from Y-Combinator.  In addition to Y-Combinator, Scale has raised money from various venture capital firms including
+Dragoneer, Greenoaks Capital, Tiger Global, Wellington Management, Durable Capital, Coatue, Index, and Founders Fund.  Scale has received $603 Million in
+investment capital and is valued at $7.3 Billion at the time of this writing.
+
+- **Funding to Date:** $603 Million
+- **Total Funding to Date:** $7.3 billion
+- **Investors
+    - Y-Combinator
+    - Dragoneer
+    - Greenoaks Capital
+    - Tiger Global
+    - Wellington Management
+    - Durable Capital
+    - Coatue
+    - Index
+    - Founders Fund
 
 ## Business Activities
 
@@ -46,7 +60,7 @@ When speaking to the current challenges in AI in a recent podcast, Alexandr ment
 in AI technology that need solving todayy.
 
 ```
-I think Data and Compute are the definitely the limiting factors today"
+I think Data and Compute are definitely the limiting factors today"
 ```
 _Alexandr Wang on The Logan Bartlett Show_ [^3]
 
@@ -190,6 +204,7 @@ being tagged and labeled, leading to hyper localized data labeling, making the m
 ## Sources
 [^1]: https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
 [^2]: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1
+https://www.reuters.com/article/idUSKBN2C02QM/  
 [^3]: https://www.youtube.com/watch?v=gDMemWgEJak  
 [^4]: https://stackshare.io/scale-ai/scale    
 [^5]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
