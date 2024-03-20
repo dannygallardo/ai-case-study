@@ -20,9 +20,10 @@ In the early days of deep learning, Alexandr noticed he used the same algorithm 
 missing in the fridge.  Nothing changed, the code and algorithms was the same, only the data was changing the
 performance of the algorithm.  This made him realize that the underlying data was what was impacting the model.  He asked himself 
 what the building blocks would be that would change the technology, and he decided data was the major component that would drive AI.
+By changing the underlying data, one would be able to enhance the output of the models.
 
-The earliest use case Scale was trying to solve autonomous vehicles and enabling self driving.  Self-driving Cars
-needed  to identify and understand the environment around them.  The key differentiator was using labeled high quality
+One of the earliest and most successful use cases Scale was trying to solve enhancing LiDAR data forwas autonomous vehicles and enabling self driving.  
+Self-driving cars needed to identify and understand the environment around them.  The key differentiator was using labeled high quality
 data that powered algorithms.  The team at Scale decided that human validation was just as important to training the algorithms as musch
 as improving the algorithms for label were themselves.  By making this hybrid model, Alexandr and team were able to provide higher quality
 labeling of data than traditional models up until that point. 
@@ -36,16 +37,16 @@ investment capital and is valued at $7.3 Billion at the time of this writing.
 
 - **Funding to Date:** $603 Million
 - **Total Funding to Date:** $7.3 billion
-- **Investors
-    - Y-Combinator
-    - Dragoneer
-    - Greenoaks Capital
-    - Tiger Global
-    - Wellington Management
-    - Durable Capital
-    - Coatue
-    - Index
-    - Founders Fund
+- **Investors**[^3]
+    - [Y-Combinator](https://www.ycombinator.com/)
+    - [Dragoneer](https://dragoneer.com/)
+    - [Greenoaks Capital](https://greenoaks.com/)
+    - [Tiger Global](https://www.tigerglobal.com/)
+    - [Wellington Management](https://www.wellington.com/)
+    - [Durable Capital](https://www.durablecap.com/)
+    - [Coatue](https://www.coatue.com/)
+    - [Index Ventures](https://www.indexventures.com/)
+    - [Founders Fund](https://foundersfund.com/)
 
 ## Business Activities
 
@@ -62,13 +63,13 @@ in AI technology that need solving todayy.
 ```
 I think Data and Compute are definitely the limiting factors today"
 ```
-_Alexandr Wang on The Logan Bartlett Show_ [^3]
+_Alexandr Wang on The Logan Bartlett Show_ [^4]
 
 ```
 Human experts become GPU's in their own right, basically the number and quality of human experts who are 
 fueling model improvement is going to become in and of itself another supply chain bottleneck for the industry
 ```
-_Alexandr Wang on The Logan Bartlett Show_ [^3]
+_Alexandr Wang on The Logan Bartlett Show_ [^4]
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
@@ -94,7 +95,7 @@ This lead time allows them to understand the market better than a competitor ent
 
 **Which technologies are they currently using, and how are they implementing them?**
 
-Scale’s tech stack includes the following technologies [^4]
+Scale’s tech stack includes the following technologies [^5]
 - [Javascript](https://www.javascript.com/)  
 - [Python](https://www.python.org/)  
 - [Node.js](https://nodejs.org/en)    
@@ -116,16 +117,16 @@ Scale is in the AI and machine learning field with a heavy focus on data labelin
 
 The AI and machine learning field is evolving rapidly.  In the last 5 years we have seen the emergence of large
 language models, natural language processing, neural networks, generative AI for images, video, and audio, as well as
-advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^5] 
+advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^6] 
 
 The trend is towards allowing companies and individuals to be able to leverage the power of AI to accomplish more
 tasks more efficiently, with more context, and to advance technology and business sectors more rapidly.
 
 **What are the other major companies in this field?**
 
-Some of Scales competitors include Labelbox[^6], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
-Perkins.  Another competitor DataLoop[^7] is based out of Tel-Aviv and has raised over $11 million  when it comes to
-offering data labeling services for AI.[^8]
+Some of Scales competitors include Labelbox[^7], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
+Perkins.  Another competitor DataLoop[^8] is based out of Tel-Aviv and has raised over $11 million  when it comes to
+offering data labeling services for AI.[^9]
 
 
 ## Results
@@ -157,7 +158,7 @@ iRobot, makers of the Roomba, had labeled over 2 million images using Scale AI�
 
 Currently, Scale is the leader in this field.  Other competitors like LabelBox are also working with large scale
 companies and providing additional services like allowing their models to be used by startups or for free .  Labelbox
-also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^9]
+also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^10]
 
 ## Recommendations
 
@@ -174,7 +175,7 @@ The second would be a labeling service that focuses on diversity within the trai
 organizations and government.  With so many models being trained on data that is currently available, the need to have
 the systems accurately depict the true nature of diverse cultures and perspectives accurately is critical to the
 advancement of the technology.  Recently, some larger organizations such as Google had to pull back software releases 
-due to historical inaccuracies in their mdoels. [^10][^11]
+due to historical inaccuracies in their mdoels. [^11][^12]
 
 **Why do you think that offering this product or service would benefit the company?**
 
@@ -204,13 +205,13 @@ being tagged and labeled, leading to hyper localized data labeling, making the m
 ## Sources
 [^1]: https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
 [^2]: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1
-https://www.reuters.com/article/idUSKBN2C02QM/  
-[^3]: https://www.youtube.com/watch?v=gDMemWgEJak  
-[^4]: https://stackshare.io/scale-ai/scale    
-[^5]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
-[^6]: https://labelbox.com/  
-[^7]: https://dataloop.ai/ 
-[^8]: https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
-[^9]: https://labelbox.com/compare/labelbox-vs-scale/  
-[^10]: https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
-[^11]: https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
+[^3]: https://www.reuters.com/article/idUSKBN2C02QM/  
+[^4]: https://www.youtube.com/watch?v=gDMemWgEJak  
+[^5]: https://stackshare.io/scale-ai/scale    
+[^6]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
+[^7]: https://labelbox.com/  
+[^8]: https://dataloop.ai/ 
+[^9]: https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
+[^10]: https://labelbox.com/compare/labelbox-vs-scale/  
+[^11]: https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
+[^12]: https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
