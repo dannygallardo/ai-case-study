@@ -1,7 +1,7 @@
 # AI Case Study of Scale
 
 ## Overview and Origin
-![Scale Logo](/scaleai_logo.jpeg)    
+![Scale Logo](images/scaleai_logo.jpeg)    
 Scale  
 https://scale.com/   
 
@@ -154,6 +154,8 @@ performing based on these metrics?**
 The core metrics available on Scale’s website show us that the number of annotations and types of data accurately
 labeled is their measure of success.  At the time of this writing, they have had over 7.7 billion annotations run
 through their system and have labeled over 1 billion 2D and 3D scenes.  
+
+![Scale Annotations](images/scale_annotations.png) 
 
 Number of annotations makes sense as a success metric, because the more data is labeled and high quality goes into the
 algorithms being trained, the better results the customers will have.  For example, in a Wall Street Journal article,
