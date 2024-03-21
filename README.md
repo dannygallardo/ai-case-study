@@ -163,19 +163,23 @@ iRobot, makers of the Roomba, had labeled over 2 million images using Scale AIâ€
 **How is your company performing relative to competitors in the same field?**
 
 Currently, Scale is the leader in this field.  Other competitors like LabelBox are also working with large scale
-companies and providing additional services like allowing their models to be used by startups or for free .  Labelbox
-also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^12]
+companies and providing additional services like allowing their models to be used by startups or for free.  Labelbox
+also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem.[^12]  
+DataLoop is the newest company out of these, and so there is not a lot of insight into their customers and potetial 
+advatages to Scale at the time of this writing.  
+
+
 
 ## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
-If I were to advise the company, I would suggest two products that could benefit its business.  
+If I were to advise Scale, I would suggest two products that could benefit its business.  
 
 The first is the ability to bundle software that allows customers to use the platform at little to no cost.  This
 would allow smaller companies and startups to get familiar with the platform and eventually become a customer.  It
 also democratizes the labeling system and allows for smaller more agile companies to leverage AI and ML to further the
-industry.  
+industry.   
 
 The second would be a labeling service that focuses on diversity within the training models powering AI for
 organizations and government.  With so many models being trained on data that is currently available, the need to have
@@ -187,26 +191,36 @@ due to historical inaccuracies in their mdoels. [^13][^14]
 
 Scale would benefit from this by potentially discovering new industries, businesses, or revenue streams that they
 haven't unlocked before.  The system could be limited to a certain amount of credits per month so that users can get
-value from the service and determine if they should upgrade to a paid version.
+value from the service and determine if they should upgrade to a paid version.Curretly, Scale focuses on enterprise customers 
+and serving the needs of the public sector.  While these use cases have been core to it's business, by leveraging annotation 
+for the the broader market, Scale would be able to increase the amount of data being labeled and trained across various industries much quicker.  
+In this feedback loop, the models for all customers would benefit because the data being used to train Scale AI and it's automated tagging would become more efficient and contain many more data points to extract from.  
 
 In terms of diversity, Scale would benefit from already being a first in class product that can accurately provide
-labeled training data for AI for diverse cultures and backgrounds.
+labeled training data for AI for diverse cultures and backgrounds.  Given organizations like Google are having to pull pack some of 
+their products due to inconsistencies, there is a clear need for the data sets to work around biases, but still allow for a fluid yet 
+accurate represenation of cultures and ethnicities.  This would also benefit the company as it deals directly with the public sectors of government
+to ensure the safe treatement of all individuals. 
 
 **What technologies would this additional product or service utilize?**
 
-For the ability to offer new product offerings, I think there would only need to be the inclusion of self service
+For the ability to offer new product offerings, there would only need to be the inclusion of self service
 payment systems into Scale that would allow users to subscribe to a tier of membership.  The enterprise product would
-still function as it does today.
+still function as it does today.  As a proof of concept, a subscription system could be made utilizing Stripe's API's for example to set up
+various tiers from free, mid, to pro.
 
 For the diversity product, this would require potentially having the data or models labeled by local experts in the
-countries of origin for the images or data that is being tagged.
+countries of origin for the images or data that is being tagged.  Human annotation is core to the business of Scale, and having more representation
+would allow for their moodels to take into account for unique references in language, culture, and local intricacies.   
 
 **Why are these technologies appropriate for your solution?**  
 These technologies are appropriate for the solution I am proposing because in the first case, the underlying
-technology of Scale would not change drastically, only how it is presented to the user.  
+technology of Scale would not change drastically, only how it is presented to the user. In the case of having to set up a subscription service, this is now
+a well understood model that many organizations have utilized and reliable API's exist for if one does not want to use a third party service.   
 
 In the second case, local experts would be more knowledgeable of certain nuances within that region or culture that is
-being tagged and labeled, leading to hyper localized data labeling, making the models highly efficient.  
+being tagged and labeled, leading to hyper localized data labeling, making the models highly efficient.  This level of attention to detail at the moment
+can only be captured by a human, which is in line with Scale's current business operations model.
 
 ## Sources
 [^1]: https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
