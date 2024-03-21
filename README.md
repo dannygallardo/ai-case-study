@@ -16,7 +16,7 @@ company.  Lucy Guo and Alexandr met while both were  working at Quora, a questio
 
 **How did the idea for the company (or project) come about?**
 
-In the early days of deep learning, Alexandr noticed he used the same algorithm for face emotions and whether or not his food is
+In the early days of studying deep learning, Alexandr noticed he used the same algorithm for face emotions and whether or not his food is
 missing in the fridge.  Nothing changed, the code and algorithms was the same, only the data was changing the
 performance of the algorithm.  This made him realize that the underlying data was what was impacting the model.  He asked himself 
 what the building blocks would be that would change the technology, and he decided data was the major component that would drive AI.
@@ -25,7 +25,7 @@ By changing the underlying data, one would be able to enhance the output of the 
 One of the earliest and most successful use cases Scale was trying to solve enhancing LiDAR data for was autonomous vehicles and enabling self driving.  
 
 Self-driving cars needed to identify and understand the environment around them.  The key differentiator was using labeled high quality
-data that powered algorithms.  The team at Scale decided that human validation was just as important to training the algorithms as musch
+data that powered algorithms.  The team at Scale decided that human validation was just as important to training the algorithms as much
 as improving the algorithms for label were themselves.  By making this hybrid model, Alexandr and team were able to provide higher quality
 labeling of data than traditional models up until that point. 
 
@@ -59,7 +59,7 @@ as algorithmic solutions.  The company currently focuses on annotating text, ima
 and LiDAR. 
 
 When speaking to the current challenges in AI in a recent podcast, Alexandr mentions how there are some limiting factors 
-in AI technology that need solving todayy.
+in AI technology that need solving today.
 
 ```
 I think Data and Compute are definitely the limiting factors today"
@@ -71,6 +71,11 @@ Human experts become GPU's in their own right, basically the number and quality 
 fueling model improvement is going to become in and of itself another supply chain bottleneck for the industry
 ```
 _Alexandr Wang on The Logan Bartlett Show_ [^5]
+
+The way in which Scale goes about solving these problems is through the Scale Data Engine[^6] that has different applications across industries.
+The data engine consist of RLFH (Reinforcement learning from human feedback), data labeling, and data curation.  Through these tools, teams are 
+able to have data annotated and tagged via experts, algorithms, and a suite of data management tools where in-house teams and their expertise can be 
+leveraged to tag content. 
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
@@ -85,23 +90,26 @@ set of customers, but due to the breadth of markets, in this case it would be in
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage
 they utilize?)**
 
-Scale offers high quality data labeling and annotation for large data sets at a cost effective price.  It also allows for scalability
+Scale offers high quality data labeling and annotation for large data sets at a cost effective price for enterprise customers.  It also allows for scalability
 of large data models and allow companies to scale up or down as needed.
 
 One of the key advantages that Scale provides is high quality reinforcement learning from human feedback {RLHF) in
-their models alongside large language models (LLM) to better label data.
+their models alongside large language models (LLM) to better label data.  This level of curation allows them to provide higher quality data sets for training
+a breadth of AI products.  They integrate human elements into each of their products, whether its generative AI, testing and evaluation of models, automotive,
+and government solutions.  This positions Scale as a differentiator as the quality of their data is much higher than most competitors as a result of using 
+human experts in the loop.
 
 In addition to all of this, Scale has formed some meaningful partnerships with some of the world’s biggest companies. 
 This lead time allows them to understand the market better than a competitor entering the market. 
 
-A unique offering that no other competitor currently offers is Scale Donovan[^6].  This is an AI powered system for defense and government that allows
+Another unique offering that no other competitor currently offers is Scale Donovan[^7].  This is an AI powered system for defense and government that allows
 the private sector to ingest data, apply AI, generate reports,and improve models.  This level of sophistication in AI is new to government
 being open to adopt.  In this way, Scale has a unique position to define how security around and AI product like this works for defense and 
 public sector use cases.
 
 **Which technologies are they currently using, and how are they implementing them?**
 
-Scale’s tech stack includes the following technologies [^7]
+Scale’s tech stack includes the following technologies [^8]
 - [Javascript](https://www.javascript.com/)  
 - [Python](https://www.python.org/)  
 - [Node.js](https://nodejs.org/en)    
@@ -123,16 +131,16 @@ Scale is in the AI and machine learning field with a heavy focus on data labelin
 
 The AI and machine learning field is evolving rapidly.  In the last 5 years we have seen the emergence of large
 language models, natural language processing, neural networks, generative AI for images, video, and audio, as well as
-advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^8] 
+advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^9] 
 
 The trend is towards allowing companies and individuals to be able to leverage the power of AI to accomplish more
 tasks more efficiently, with more context, and to advance technology and business sectors more rapidly.
 
 **What are the other major companies in this field?**
 
-Some of Scales competitors include Labelbox[^9], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
-Perkins.  Another competitor DataLoop[^10] is based out of Tel-Aviv and has raised over $11 million  when it comes to
-offering data labeling services for AI.[^11]
+Some of Scale's competitors include Labelbox[^10], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
+Perkins.  Another competitor DataLoop[^11] is based out of Tel Aviv and has raised over $11 million  when it comes to
+offering data labeling services for AI.[^12]
 
 
 ## Results
@@ -166,9 +174,9 @@ iRobot, makers of the Roomba, had labeled over 2 million images using Scale AI�
 
 Currently, Scale is the leader in this field.  Other competitors like LabelBox are also working with large scale
 companies and providing additional services like allowing their models to be used by startups or for free.  Labelbox
-also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem.[^12]  
+also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem.[^13]  
 DataLoop is the newest company out of these, and so there is not a lot of insight into their customers and potetial 
-advatages to Scale at the time of this writing.  
+advantages to Scale at the time of this writing.  
 
 
 
@@ -187,13 +195,13 @@ The second would be a labeling service that focuses on diversity within the trai
 organizations and government.  With so many models being trained on data that is currently available, the need to have
 the systems accurately depict the true nature of diverse cultures and perspectives accurately is critical to the
 advancement of the technology.  Recently, some larger organizations such as Google had to pull back software releases 
-due to historical inaccuracies in their mdoels. [^13][^14]
+due to historical inaccuracies in their models. [^14][^15]
 
 **Why do you think that offering this product or service would benefit the company?**
 
 Scale would benefit from this by potentially discovering new industries, businesses, or revenue streams that they
 haven't unlocked before.  The system could be limited to a certain amount of credits per month so that users can get
-value from the service and determine if they should upgrade to a paid version.Curretly, Scale focuses on enterprise customers 
+value from the service and determine if they should upgrade to a paid version.Currently, Scale focuses on enterprise customers 
 and serving the needs of the public sector.  While these use cases have been core to it's business, by leveraging annotation 
 for the the broader market, Scale would be able to increase the amount of data being labeled and trained across various industries much quicker.  
 In this feedback loop, the models for all customers would benefit because the data being used to train Scale AI and it's automated tagging would become more efficient and contain many more data points to extract from.  
@@ -201,19 +209,19 @@ In this feedback loop, the models for all customers would benefit because the da
 In terms of diversity, Scale would benefit from already being a first in class product that can accurately provide
 labeled training data for AI for diverse cultures and backgrounds.  Given organizations like Google are having to pull pack some of 
 their products due to inconsistencies, there is a clear need for the data sets to work around biases, but still allow for a fluid yet 
-accurate represenation of cultures and ethnicities.  This would also benefit the company as it deals directly with the public sectors of government
-to ensure the safe treatement of all individuals. 
+accurate representation of cultures and ethnicities.  This would also benefit the company as it deals directly with the public sectors of government
+to ensure the safe treatment of all individuals. 
 
 **What technologies would this additional product or service utilize?**
 
-For the ability to offer new product offerings, there would only need to be the inclusion of self service
+For the ability to offer new product offerings, there would only need to be the inclusion of self-service
 payment systems into Scale that would allow users to subscribe to a tier of membership.  The enterprise product would
 still function as it does today.  As a proof of concept, a subscription system could be made utilizing Stripe's API's for example to set up
 various tiers from free, mid, to pro.
 
 For the diversity product, this would require potentially having the data or models labeled by local experts in the
 countries of origin for the images or data that is being tagged.  Human annotation is core to the business of Scale, and having more representation
-would allow for their moodels to take into account for unique references in language, culture, and local intricacies.   
+would allow for their models to take into account for unique references in language, culture, and local intricacies.   
 
 **Why are these technologies appropriate for your solution?**  
 These technologies are appropriate for the solution I am proposing because in the first case, the underlying
@@ -230,6 +238,7 @@ can only be captured by a human, which is in line with Scale's current business 
 [^3]: [Scale.ai](https://scale.com/about).  Retrieved March 21, 2024
 [^4]: [Artificial intelligence firm Scale raises $325 million at $7 billion valuation](https://www.reuters.com/article/idUSKBN2C02QM/).  *Reuters*.  Retrieved March 21, 2024.
 [^5]: [Alexandr Wang: 26-Year-Old Billionaire Powering the AI Industry](https://www.youtube.com/watch?v=gDMemWgEJak). *The Logan Bartlett Show*.  Retrieved March 21, 2024.
+[^6]: [Scale Data Engine](https://scale.com/data-engine).  Retrieved March 21, 2024
 [^6]: [Scale AI Donovan](https://scale.com/donovan).  Retrieved March 21, 2024
 [^7]: [Stackshare Scale Profile](https://stackshare.io/scale-ai/scale).  *Stackshare*.  Retrieved March 21, 2024.    
 [^8]: [Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report](https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study).  *Stanford University*.  Retrieved March 21, 2024.   
