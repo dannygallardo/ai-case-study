@@ -239,12 +239,12 @@ can only be captured by a human, which is in line with Scale's current business 
 [^4]: [Artificial intelligence firm Scale raises $325 million at $7 billion valuation](https://www.reuters.com/article/idUSKBN2C02QM/).  *Reuters*.  Retrieved March 21, 2024.
 [^5]: [Alexandr Wang: 26-Year-Old Billionaire Powering the AI Industry](https://www.youtube.com/watch?v=gDMemWgEJak). *The Logan Bartlett Show*.  Retrieved March 21, 2024.
 [^6]: [Scale Data Engine](https://scale.com/data-engine).  Retrieved March 21, 2024
-[^6]: [Scale AI Donovan](https://scale.com/donovan).  Retrieved March 21, 2024
-[^7]: [Stackshare Scale Profile](https://stackshare.io/scale-ai/scale).  *Stackshare*.  Retrieved March 21, 2024.    
-[^8]: [Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report](https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study).  *Stanford University*.  Retrieved March 21, 2024.   
-[^9]: [Labelbox](https://labelbox.com/).  Retrieved March 21, 2024.
-[^10]: [DataLoop](https://dataloop.ai/).  Retrieved March 21, 2024.
-[^11]: [Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software](https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201).  *The Wall Street Journal*.  Retrieved March 21, 2024.
-[^12]: [Compare Labelbox versus Scale AI](https://labelbox.com/compare/labelbox-vs-scale/).  *Labelbox*.  Retrieved March 21, 2024.
-[^13]: [Experts call for more diversity to combat bias in artificial intelligence](https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html).  *CNN*.  Retrieved March 21, 2024.
-[^14]: [Google takes down Gemini AI image generator. Here’s what you need to know.](https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/).  *The Washington Post*.  Retrieved March 21, 2024.
+[^7]: [Scale AI Donovan](https://scale.com/donovan).  Retrieved March 21, 2024
+[^8]: [Stackshare Scale Profile](https://stackshare.io/scale-ai/scale).  *Stackshare*.  Retrieved March 21, 2024.    
+[^9]: [Gathering Strength, Gathering Storms: The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report](https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study).  *Stanford University*.  Retrieved March 21, 2024.   
+[^10]: [Labelbox](https://labelbox.com/).  Retrieved March 21, 2024.
+[^11]: [DataLoop](https://dataloop.ai/).  Retrieved March 21, 2024.
+[^12]: [Scale AI’s Rapid Growth Reflects Widening Demand for Smart Software](https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201).  *The Wall Street Journal*.  Retrieved March 21, 2024.
+[^13]: [Compare Labelbox versus Scale AI](https://labelbox.com/compare/labelbox-vs-scale/).  *Labelbox*.  Retrieved March 21, 2024.
+[^14]: [Experts call for more diversity to combat bias in artificial intelligence](https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html).  *CNN*.  Retrieved March 21, 2024.
+[^15]: [Google takes down Gemini AI image generator. Here’s what you need to know.](https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/).  *The Washington Post*.  Retrieved March 21, 2024.
