@@ -7,7 +7,7 @@ https://scale.com/
 
 **When was the company incorporated?***
 
-Scale was founded in 2016 and is headquartered in San Francisco, California
+Scale was founded on June 1, 2016 and is headquartered in San Francisco, California
 
 **Who are the founders of the company?**
 
@@ -22,7 +22,8 @@ performance of the algorithm.  This made him realize that the underlying data wa
 what the building blocks would be that would change the technology, and he decided data was the major component that would drive AI.
 By changing the underlying data, one would be able to enhance the output of the models.
 
-One of the earliest and most successful use cases Scale was trying to solve enhancing LiDAR data forwas autonomous vehicles and enabling self driving.  
+One of the earliest and most successful use cases Scale was trying to solve enhancing LiDAR data for was autonomous vehicles and enabling self driving.  
+
 Self-driving cars needed to identify and understand the environment around them.  The key differentiator was using labeled high quality
 data that powered algorithms.  The team at Scale decided that human validation was just as important to training the algorithms as musch
 as improving the algorithms for label were themselves.  By making this hybrid model, Alexandr and team were able to provide higher quality
@@ -33,11 +34,11 @@ labeling of data than traditional models up until that point.
 The company was founded after Alexandr after his time as a developer at Quora and studying at MIT.  He dropped out of
 MIT and received an initial investment from Y-Combinator.  In addition to Y-Combinator, Scale has raised money from various venture capital firms including
 Dragoneer, Greenoaks Capital, Tiger Global, Wellington Management, Durable Capital, Coatue, Index, and Founders Fund.  Scale has received $603 Million in
-investment capital and is valued at $7.3 Billion at the time of this writing.
+investment capital and is valued at $7.3 Billion at the time of this writing.[^3][^4]
 
 - **Funding to Date:** $603 Million
 - **Total Funding to Date:** $7.3 billion
-- **Investors**[^3]
+- **Investors**  
     - [Y-Combinator](https://www.ycombinator.com/)
     - [Dragoneer](https://dragoneer.com/)
     - [Greenoaks Capital](https://greenoaks.com/)
@@ -63,13 +64,13 @@ in AI technology that need solving todayy.
 ```
 I think Data and Compute are definitely the limiting factors today"
 ```
-_Alexandr Wang on The Logan Bartlett Show_ [^4]
+_Alexandr Wang on The Logan Bartlett Show_ [^5]
 
 ```
 Human experts become GPU's in their own right, basically the number and quality of human experts who are 
 fueling model improvement is going to become in and of itself another supply chain bottleneck for the industry
 ```
-_Alexandr Wang on The Logan Bartlett Show_ [^4]
+_Alexandr Wang on The Logan Bartlett Show_ [^5]
 
 **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
 
@@ -78,24 +79,29 @@ their machine learning models.  This includes organizations in various sectors s
 government, autonomous vehicles, robotics, generative AI, and more.  
 
 As a result of the wide breadth of customers that Scale can impact, it is difficult to pinpoint a market size for the
-set of customers, but in this case it would be in the order of Billions.
+set of customers, but due to the breadth of markets, in this case it would be in the order of Billions.
 
 
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage
 they utilize?)**
 
-Scale offers high quality data labeling for large data sets at a cost effective price.  It also allows for scalability
+Scale offers high quality data labeling and annotation for large data sets at a cost effective price.  It also allows for scalability
 of large data models and allow companies to scale up or down as needed.
 
 One of the key advantages that Scale provides is high quality reinforcement learning from human feedback {RLHF) in
-their models alongside large language models (LLM)  to better label data.
+their models alongside large language models (LLM) to better label data.
 
 In addition to all of this, Scale has formed some meaningful partnerships with some of the world’s biggest companies. 
 This lead time allows them to understand the market better than a competitor entering the market. 
 
+A unique offering that no other competitor currently offers is Scale Donovan[^6].  This is an AI powered system for defense and government that allows
+the private sector to ingest data, apply AI, generate reports,and improve models.  This level of sophistication in AI is new to government
+being open to adopt.  In this way, Scale has a unique position to define how security around and AI product like this works for defense and 
+public sector use cases.
+
 **Which technologies are they currently using, and how are they implementing them?**
 
-Scale’s tech stack includes the following technologies [^5]
+Scale’s tech stack includes the following technologies [^7]
 - [Javascript](https://www.javascript.com/)  
 - [Python](https://www.python.org/)  
 - [Node.js](https://nodejs.org/en)    
@@ -117,16 +123,16 @@ Scale is in the AI and machine learning field with a heavy focus on data labelin
 
 The AI and machine learning field is evolving rapidly.  In the last 5 years we have seen the emergence of large
 language models, natural language processing, neural networks, generative AI for images, video, and audio, as well as
-advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^6] 
+advances in robotics, financial modeling, autonomous vehicles, vision, speech recognition. [^8] 
 
 The trend is towards allowing companies and individuals to be able to leverage the power of AI to accomplish more
 tasks more efficiently, with more context, and to advance technology and business sectors more rapidly.
 
 **What are the other major companies in this field?**
 
-Some of Scales competitors include Labelbox[^7], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
-Perkins.  Another competitor DataLoop[^8] is based out of Tel-Aviv and has raised over $11 million  when it comes to
-offering data labeling services for AI.[^9]
+Some of Scales competitors include Labelbox[^9], based out of the Bay Area and backed by Andreessen Horowitz and Kleiner
+Perkins.  Another competitor DataLoop[^10] is based out of Tel-Aviv and has raised over $11 million  when it comes to
+offering data labeling services for AI.[^11]
 
 
 ## Results
@@ -158,7 +164,7 @@ iRobot, makers of the Roomba, had labeled over 2 million images using Scale AI�
 
 Currently, Scale is the leader in this field.  Other competitors like LabelBox are also working with large scale
 companies and providing additional services like allowing their models to be used by startups or for free .  Labelbox
-also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^10]
+also touts the fact that they are able to have lower costs than Scale and provide a bundled solution and ecosystem. [^12]
 
 ## Recommendations
 
@@ -175,7 +181,7 @@ The second would be a labeling service that focuses on diversity within the trai
 organizations and government.  With so many models being trained on data that is currently available, the need to have
 the systems accurately depict the true nature of diverse cultures and perspectives accurately is critical to the
 advancement of the technology.  Recently, some larger organizations such as Google had to pull back software releases 
-due to historical inaccuracies in their mdoels. [^11][^12]
+due to historical inaccuracies in their mdoels. [^13][^14]
 
 **Why do you think that offering this product or service would benefit the company?**
 
@@ -205,13 +211,15 @@ being tagged and labeled, leading to hyper localized data labeling, making the m
 ## Sources
 [^1]: https://www.forbes.com/profile/lucy-guo/?sh=61d4deed51b9  
 [^2]: https://www.forbes.com/sites/stevenli1/2019/12/22/scale-ai-growth-story/?sh=58264836f4a1
-[^3]: https://www.reuters.com/article/idUSKBN2C02QM/  
-[^4]: https://www.youtube.com/watch?v=gDMemWgEJak  
-[^5]: https://stackshare.io/scale-ai/scale    
-[^6]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
-[^7]: https://labelbox.com/  
-[^8]: https://dataloop.ai/ 
-[^9]: https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
-[^10]: https://labelbox.com/compare/labelbox-vs-scale/  
-[^11]: https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
-[^12]: https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
+[^3]: https://scale.com/about
+[^4]: https://www.reuters.com/article/idUSKBN2C02QM/  
+[^5]: https://www.youtube.com/watch?v=gDMemWgEJak 
+[^6]: https://scale.com/donovan 
+[^7]: https://stackshare.io/scale-ai/scale    
+[^8]: https://ai100.stanford.edu/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence-ai100-2021-study   
+[^9]: https://labelbox.com/  
+[^10]: https://dataloop.ai/ 
+[^11]: https://www.wsj.com/articles/scale-ais-rapid-growth-reflects-widening-demand-for-smart-software-11626082201  
+[^12]: https://labelbox.com/compare/labelbox-vs-scale/  
+[^13]: https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html  
+[^14]: https://www.washingtonpost.com/technology/2024/02/22/google-gemini-ai-image-generation-pause/  
